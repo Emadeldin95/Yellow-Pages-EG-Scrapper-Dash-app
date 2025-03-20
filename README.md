@@ -35,7 +35,7 @@ A **fully functional Dash web application** that allows users to **scrape busine
 ### 1️⃣ Install Required Packages
 First, **clone the repository** and navigate to the project folder:
 ```sh
-git clone https://github.com/Emadeldin95/YellowPages-Scraper-Dash.git
+git clone https://github.com/Emadeldin95/Yellow-Pages-EG-Scrapper-Dash-app.git
 cd YellowPages-Scraper-Dash
 ```
 Then, install dependencies:
