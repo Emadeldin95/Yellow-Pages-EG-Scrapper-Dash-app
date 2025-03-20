@@ -35,7 +35,7 @@ A **fully functional Dash web application** that allows users to **scrape busine
 ### 1️⃣ Install Required Packages
 First, **clone the repository** and navigate to the project folder:
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/YellowPages-Scraper-Dash.git
+git clone https://github.com/Emadeldin95/YellowPages-Scraper-Dash.git
 cd YellowPages-Scraper-Dash
 ```
 Then, install dependencies:
@@ -67,7 +67,7 @@ http://127.0.0.1:8050/
 ## 🖼️ Screenshots
 | **Main UI** | **Scraping in Progress** |
 |------------|--------------------|
-| ![UI](screenshot1.png) | ![Scraping](screenshot1.png) |
+| ![UI](screenshot1.png) | ![Scraping](screenshot2.png) |
 
 ## 🛠️ Technologies Used
 - **Python 3.x**
