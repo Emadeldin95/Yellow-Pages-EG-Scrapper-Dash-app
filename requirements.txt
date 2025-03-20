@@ -1,0 +1,7 @@
+dash
+dash-bootstrap-components
+flask
+pandas
+beautifulsoup4
+selenium
+undetected-chromedriver
